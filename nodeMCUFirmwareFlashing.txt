@@ -1,0 +1,1 @@
+python ./esptool.py --port /dev/tty.SLAB_USBtoUART write_flash 0x00000 <path to firmware>
